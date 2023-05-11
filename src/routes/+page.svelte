@@ -1,2 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Using SvelteKit Endpoints</h1>
+
+<ul>
+	<li><a href="./csr">CSR</a></li>
+	<li><a href="./ssr">SSR</a></li>
+	<li><a href="./dd">Dynamic Data</a></li>
+	<li><a href="./dn">Defered Navigation</a></li>
+	<li><a href="./ul">Universal Load Functions</a></li>
+	<li><a href="./sl">Server Load Functions</a></li>
+</ul>
