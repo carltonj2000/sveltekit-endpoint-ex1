@@ -2,6 +2,10 @@
 
 ## Code Histroy
 
+The code in this repository is based on the
+[Page Versus Standalone Endpoints In SvelteKit](https://youtu.be/8OmsVZuuQMc)
+video.
+
 ## Creation Histroy
 
 ```bash

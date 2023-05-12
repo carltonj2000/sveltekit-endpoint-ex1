@@ -7,4 +7,5 @@
 	<li><a href="./dn">Defered Navigation</a></li>
 	<li><a href="./ul">Universal Load Functions</a></li>
 	<li><a href="./sl">Server Load Functions</a></li>
+	<li><a href="./cd">Child Data In Parents</a></li>
 </ul>
