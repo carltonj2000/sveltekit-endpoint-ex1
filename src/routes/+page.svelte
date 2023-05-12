@@ -15,4 +15,5 @@
 <ul>
 	<li><a href="./rng">Rand Number Generator</a></li>
 	<li><a href="./rss.xml">XML Feed</a></li>
+	<li><a href="./pdf">PDF Download</a></li>
 </ul>
